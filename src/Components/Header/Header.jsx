@@ -7,7 +7,9 @@ const Header = () => {
     <>
       <section id="header">
         <a href="#">
+            <Link className="active nav-link" to={"/"}>
           <img src={logo} alt="Logo" />
+            </Link>
         </a>
 
         <div>

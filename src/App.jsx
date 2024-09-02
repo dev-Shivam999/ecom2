@@ -23,7 +23,7 @@ function App() {
           <Route path="/about" element={<About />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
-          {/* <Route path="/sproduct" element={<S_product />}></Route> */}
+          {/* / <Route path="/sproduct" element={<S_product />}></Route> */}
           {/* <Route path="/sproduct" element={<S_product />}></Route> */}
         </Routes>
       <Footer />
